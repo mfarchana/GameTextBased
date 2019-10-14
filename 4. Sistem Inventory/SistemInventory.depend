@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1570504967 source:e:\aan\sisteminventory\main.cpp
+	<iostream>
+	<vector>
+
+1570510154 source:g:\udinus\semester 5\game programming\aan\gameprogramming4 (sisteminventory)\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+
+1571064390 source:d:\udinus\semester 5\game programming\aan\gameprogramming4 (sisteminventory)\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<ctime>
+
